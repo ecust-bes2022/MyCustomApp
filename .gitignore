@@ -1,0 +1,14 @@
+build/
+dist/
+package/
+resource_rc.py
+__pycache__
+.idea/
+venv/
+Gallery/GlobalConfig.py
+metadata.json
+qdoc_html/
+.DS_Store
+.vscode/
+
+.template/
