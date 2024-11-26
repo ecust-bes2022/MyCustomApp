@@ -6,7 +6,7 @@ import QtQuick.Controls
 import FluentUI.Controls
 import FluentUI.impl
 import QtQuick.Controls.Material as M
-import Gallery
+import MyCustomApp
 
 ScrollablePage {
     id: page

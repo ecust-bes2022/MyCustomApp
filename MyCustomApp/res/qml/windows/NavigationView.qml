@@ -71,7 +71,7 @@ Item{
     NavigationView{
         anchors.fill: parent
         logo: "qrc:/qt/qml/MyCustomApp/res/image/logo.png"
-        title: "FluentUI Gallery"
+        title: "MyCustomApp Gallery"
         router: page_router
         items: originalItems
         footerItems: originalFooterItems
