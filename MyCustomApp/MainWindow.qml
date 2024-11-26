@@ -12,5 +12,5 @@ FramelessWindow {
     minimumHeight: 240
     visible: true
     launchMode: WindowType.SingleInstance
-    initialItem: R.resolvedUrl("MainScreen.qml")
+    initialItem: R.resolvedUrl("res/qml/windows/NavigationView.qml")
 }

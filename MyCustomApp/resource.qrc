@@ -3,7 +3,9 @@
         <file>App.qml</file>
         <file>MainScreen.qml</file>
         <file>MainWindow.qml</file>
-        <file>logo.png</file>
+        <file>res/qml/windows/NavigationView.qml</file>
+        <file>res/image/logo.png</file>
+        <file>res/qml/pages/T_Test.qml</file>
         <file>MyCustomApp_en_US.qm</file>
         <file>MyCustomApp_zh_CN.qm</file>
     </qresource>

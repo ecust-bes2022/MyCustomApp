@@ -7,7 +7,8 @@ Starter {
     id: starter
     Component.onCompleted: {
         WindowRouter.routes = {
-            "/": R.resolvedUrl("MainWindow.qml")
+            "/": R.resolvedUrl("MainWindow.qml"),
+            // "/": R.resolvedUrl("res/qml/windows/NavigationView.qml")
         }
         WindowRouter.go("/")
     }

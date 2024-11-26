@@ -8,7 +8,7 @@ venv/
 Gallery/GlobalConfig.py
 metadata.json
 qdoc_html/
-.DS_Store
+.DS_StoreTrackOrders
 .vscode/
 
 .template/
